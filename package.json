@@ -1,0 +1,68 @@
+{
+  "name": "inlline-edit-table",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@zendeskgarden/container-utilities": "^0.6.3",
+    "@zendeskgarden/css-bedrock": "^8.x",
+    "@zendeskgarden/react-accordions": "^8.x",
+    "@zendeskgarden/react-avatars": "^8.x",
+    "@zendeskgarden/react-breadcrumbs": "^8.x",
+    "@zendeskgarden/react-buttons": "^8.53.2",
+    "@zendeskgarden/react-chrome": "^8.x",
+    "@zendeskgarden/react-colorpickers": "^8.x",
+    "@zendeskgarden/react-datepickers": "^8.x",
+    "@zendeskgarden/react-dropdowns": "^8.x",
+    "@zendeskgarden/react-forms": "^8.53.2",
+    "@zendeskgarden/react-grid": "^8.x",
+    "@zendeskgarden/react-loaders": "^8.x",
+    "@zendeskgarden/react-modals": "^8.x",
+    "@zendeskgarden/react-notifications": "^8.x",
+    "@zendeskgarden/react-pagination": "^8.x",
+    "@zendeskgarden/react-tables": "^8.x",
+    "@zendeskgarden/react-tabs": "^8.x",
+    "@zendeskgarden/react-tags": "^8.x",
+    "@zendeskgarden/react-theming": "^8.x",
+    "@zendeskgarden/react-tooltips": "^8.x",
+    "@zendeskgarden/react-typography": "^8.x",
+    "@zendeskgarden/svg-icons": "^6.x",
+    "date-fns": "latest",
+    "dom-helpers": "latest",
+    "lodash.debounce": "latest",
+    "react": "latest",
+    "react-beautiful-dnd": "latest",
+    "react-dom": "latest",
+    "react-dropzone": "latest",
+    "react-scripts": "latest",
+    "react-window": "latest",
+    "styled-components": "latest",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
